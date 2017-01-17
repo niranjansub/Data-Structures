@@ -62,7 +62,7 @@ class ArticulationPoints{
 
     for(int i = 0 ; i < Vertices ; i++){
       if(ap[i] == true){
-        System.out.println(i+" ");
+        System.out.println(i);
       }
     }
   }
